@@ -38,7 +38,7 @@ This repository contains code and resources for a chatbot application using Hugg
 
 The application's demo features the following images from the `image` folder. Ensure they are added in the specified order:
 
-1. ![Screenshot 2023-08-27 113938](images/Screenshot%202023-08-27%20113938.png)
+1.[ ![Screenshot 2023-08-27 113938](images/Screenshot%202023-08-27%20113938.png)](https://github.com/apatidar0/LLM_demos/blob/main/YT%20Script%20Writing%20Tool/Images/Screenshot%202023-08-27%20113938.png)
 2. ![Generated Demo](images/generated_demo.png)
 
 ## Explore
