@@ -39,10 +39,10 @@ This repository contains code and resources for a chatbot application using Hugg
 The application's demo features the following images from the `image` folder. Ensure they are added in the specified order:
 
 1. Screenshot 2023-08-27 113938:
-   ![Screenshot 2023-08-27 113938](images/screenshot.png)
+   ![Screenshot 2023-08-27 113938](Images/screenshot.png)
 
 2. Generated Demo:
-   ![Generated Demo](images/generated_demo.png)
+   ![Generated Demo](Images/generated_demo.png)
 
 
 ## Explore
