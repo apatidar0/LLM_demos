@@ -19,3 +19,35 @@ Picture this: a tool that effortlessly molds high-quality video scripts, perfect
 Elevate your YouTube content, whether it's educational elucidations, entertaining chronicles, or informative deep-dives. Embrace the Script Writing ❤️ Toll YouTube as your co-pilot, expertly navigating the realms of script creation, so you can channel your energies into what truly matters – delivering captivating content to your audience.
 
 Are you ready to embark on a journey where your creativity meets the boundless potential of language models? Join hands with Script Writing ❤️ Toll YouTube and sculpt narratives that leave an indelible mark on the digital landscape. Happy scripting! 🎬📝
+
+# Project Readme
+
+This repository contains code and resources for a chatbot application using Hugging Face models. The application is designed to run on a CPU. Follow the steps below to set up and run the application.
+
+## Steps
+
+1. Create an empty folder named `models` in the root directory.
+2. Download the model from [Hugging Face models](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) that can run on a CPU.
+3. Modify the model path in `utils.py` at line 80 to:
+4. Install the required packages by running:   pip install -r requirements.txt
+5. Launch the Streamlit application using the command: streamlit run app.py
+
+
+## App Demo
+
+The application's demo features the following images from the `image` folder. Ensure they are added in the specified order:
+
+1. Screenshot 2023-08-27 113938
+2. generated_demo
+
+## Explore
+
+Feel free to explore the following links for additional information:
+
+- [TheBloke's Hugging Face Profile](https://huggingface.co/TheBloke)
+- [marella/ctransformers GitHub Repository](https://github.com/marella/ctransformers)
+- [AI Meta Llama Project](https://ai.meta.com/llama/)
+
+
+
+
