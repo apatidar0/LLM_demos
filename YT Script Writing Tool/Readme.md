@@ -34,8 +34,6 @@ This repository contains code and resources for a chatbot application using Hugg
 4. Install the required packages by running: pip install -r requirements.txt
 5. Launch the Streamlit application using the command: streamlit run app.py
 
-
-
 ## App Demo
 
 The application's demo features the following images from the `image` folder. Ensure they are added in the specified order:
