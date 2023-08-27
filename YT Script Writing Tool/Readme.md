@@ -1,1 +1,2 @@
+**Lang Chain**
 LangChain is a framework that enables developers to create chains that integrate with external data sources for generation purposes1. It is built around LLMs and can be used for chatbots, question-answering, summarization, and more2. LangChain is at the infrastructure layer and allows developers to compose LLM applications that combine LLM data with data from other sources3. The LangChain library is revolutionizing industries and technology4. It provides classes and functions to make constructing and working with prompts easy5
