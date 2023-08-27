@@ -20,6 +20,8 @@ Elevate your YouTube content, whether it's educational elucidations, entertainin
 
 Are you ready to embark on a journey where your creativity meets the boundless potential of language models? Join hands with Script Writing ❤️ Toll YouTube and sculpt narratives that leave an indelible mark on the digital landscape. Happy scripting! 🎬📝
 
+
+
 # Project Readme
 
 This repository contains code and resources for a chatbot application using Hugging Face models. The application is designed to run on a CPU. Follow the steps below to set up and run the application.
@@ -28,9 +30,10 @@ This repository contains code and resources for a chatbot application using Hugg
 
 1. Create an empty folder named `models` in the root directory.
 2. Download the model from [Hugging Face models](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) that can run on a CPU.
-3. Modify the model path in `utils.py` at line 80 to:
-4. Install the required packages by running:   pip install -r requirements.txt
+3. Modify the model path in `utils.py` at line 80 to: models/llama-2-7b-chat.ggmlv3.q8_0.bin
+4. Install the required packages by running: pip install -r requirements.txt
 5. Launch the Streamlit application using the command: streamlit run app.py
+
 
 
 ## App Demo
@@ -47,7 +50,3 @@ Feel free to explore the following links for additional information:
 - [TheBloke's Hugging Face Profile](https://huggingface.co/TheBloke)
 - [marella/ctransformers GitHub Repository](https://github.com/marella/ctransformers)
 - [AI Meta Llama Project](https://ai.meta.com/llama/)
-
-
-
-
